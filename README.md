@@ -3,7 +3,7 @@
 - 👨‍💻 Nama Saya Ayu Muhafilah
 - :school: Alumni SMK NEGERI 2 KUNINGAN
 - :school: Mahasiswa Teknik Informatika [Universitas Kuningan ](https://uniku.ac.id/)
-- :books: Sedang mempelajari hal baru tentang Pemrograman
+// - :books: Sedang mempelajari hal baru tentang Pemrograman
 
 # Kontak Saya
 <a href="https://instagram.com/ayumuhafilah10" style="text-decoration: none;" target="_blank">
