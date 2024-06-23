@@ -5,7 +5,7 @@
 - :school: Mahasiswa Teknik Informatika [Universitas Kuningan ](https://uniku.ac.id/)
 
 # Kontak Saya
-<a href="https://instagram.com/ayumuhafilah10" style="text-decoration: none;" target="_blank">
+<a href="https://instagram.com/ayymhflh10" style="text-decoration: none;" target="_blank">
     <img src="https://img.shields.io/badge/instagram-%23E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://t.me/ayumuhafilah" style="text-decoration: none;" target="_blank">
