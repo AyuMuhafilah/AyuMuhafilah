@@ -8,12 +8,15 @@
 
 ## 📬 Kontak Saya
 
-<p align="left">
-  <a href="INSTAGRAM_LINK"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="TELEGRAM_LINK"><img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-  <a href="mailto:EMAIL_KAMU"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="LINKEDIN_LINK"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div>
+    <a href="https://instagram.com/ayymhflh10" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+    <a href="https://t.me/ayumuhafilah" target="_blank"><img src="https://img.shields.io/badge/telegram-%2326A5F8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+    <a href="mailto:ayumuhafilah10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+    <a href="https://www.linkedin.com/in/ayu-muhafilah-36a9311a8" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=AyuMuhafilah&color=0A66C2&style=for-the-badge" alt="Visitor Count" />
+</div>
 
 ---
 
@@ -54,7 +57,7 @@
 
 ---
 
-<!-- Dev Quote & Visitor Counter -->
+<!-- Dev Quote -->
 <p align="left">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
