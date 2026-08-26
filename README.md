@@ -62,3 +62,11 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=AyuMuhafilah&color=blue&style=flat-square" alt="Visitor Count" />
 </p>
+
+<p align="center">
+  ⭐ <b>Thanks for visiting my profile!</b> ⭐
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together 🚀</i>
+</p>
