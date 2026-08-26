@@ -59,10 +59,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=AyuMuhafilah&color=blue&style=flat-square" alt="Visitor Count" />
-</p>
-
 <p align="center">
   ⭐ <b>Thanks for visiting my profile!</b> ⭐
 </p>
