@@ -8,15 +8,9 @@
 
 ## 📬 Kontak Saya
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div>
-    <a href="https://instagram.com/ayymhflh10" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-    <a href="https://t.me/ayumuhafilah" target="_blank"><img src="https://img.shields.io/badge/telegram-%2326A5F8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
-    <a href="mailto:ayumuhafilah10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-    <a href="https://www.linkedin.com/in/ayu-muhafilah-36a9311a8" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=AyuMuhafilah&color=0A66C2&style=for-the-badge" alt="Visitor Count" />
-</div>
+<p align="left">
+  <a href="https://instagram.com/ayymhflh10" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> <a href="https://t.me/ayumuhafilah" target="_blank"><img src="https://img.shields.io/badge/telegram-%2326A5F8?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a> <a href="mailto:ayumuhafilah10@gmail.com" target="_blank"><img src="https://img.shields.io/badge/email-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://www.linkedin.com/in/ayu-muhafilah-36a9311a8" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <img src="https://komarev.com/ghpvc/?username=AyuMuhafilah&color=0A66C2&style=for-the-badge" align="right" alt="Visitor Count" />
+</p>
 
 ---
 
