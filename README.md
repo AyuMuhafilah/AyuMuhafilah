@@ -1,9 +1,4 @@
-<!-- Custom Header Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10&height=200&section=header&text=Welcome%20to%20My%20Profile!&fontSize=40&animation=fadeIn&fontColor=ffffff" alt="Header Banner" width="100%" />
-</p>
-
-# Hiii 👋👋👋
+## Hiii 👋👋👋
 
 * 👩‍💻 Nama Saya **Ayu Muhafilah**
 * 🏫 Alumni SMK NEGERI 2 KUNINGAN
