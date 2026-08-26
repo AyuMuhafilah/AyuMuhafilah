@@ -47,9 +47,9 @@
 ## 📊 Statistik GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyuMuhafilah&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyuMuhafilah&layout=compact&theme=dark" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AyuMuhafilah&show_icons=true&theme=dark&include_all_commits=true&count_private=true&include_forks=true&cache_seconds=1&card_width=420" alt="GitHub Stats" height="205" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AyuMuhafilah&layout=compact&theme=dark&langs_count=10&include_forks=true&cache_seconds=1&card_width=420" alt="Top Languages" height="195" />
 </p>
 
 ---
