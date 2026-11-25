@@ -2,7 +2,7 @@
 
 * 👩‍💻 Nama Saya **Ayu Muhafilah**
 * 🏫 Alumni SMK NEGERI 2 KUNINGAN
-* 🎓 Mahasiswa Teknik Informatika [Universitas Kuningan](https://uniku.ac.id)
+* 🎓 S1 Teknik Informatika [Universitas Kuningan](https://uniku.ac.id)
 
 ---
 
